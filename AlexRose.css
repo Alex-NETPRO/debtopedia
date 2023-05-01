@@ -1,0 +1,356 @@
+﻿.gridViewPager td
+    {
+         padding-left:4px;
+         padding-right:4px;
+         padding-top:2px;
+         padding-bottom:2px;
+        }
+.gridViewPager caption
+    {
+         text-align:center;
+         font-weight:bold
+        }
+
+body {
+}
+
+a{ color:Blue; text-decoration: none}   
+  
+  a:hover{ color:Red}
+              	
+
+.Div25response { float:right ; width:25%}
+ 
+
+/* The Modal (background) */
+.modalx {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 5px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modalx-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+/* The Close Button */
+.closex {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.closex:hover,
+.closex:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.VerticalSpace100{ height:100px}
+       
+  .showcase
+  {
+  	width:340px;
+  	background: White;
+  	box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.3);
+    
+  	}
+  	
+  .showBoard
+  {
+  	width:700px;
+  	background: White;
+  	box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.3);
+    
+  	}
+  	
+  .A4
+  {
+  	width:650px;
+  	background: White;
+  	box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.3);
+    
+  	}
+  	
+  	  	  	
+  	.mytextbox
+  	{width:80%; border-style: none ; padding-top:5px; padding-bottom: 5px; padding-left:12px; padding-right:12px;line-height:1.42857143;color:#555;background-color:#fff;background-image:none;border:1px solid #ccc;border-radius:4px;-moz-border-radius:4px; -webkit-border-radius:4px;-khtml-border-radius:4px; -webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);box-shadow:inset 0 1px 1px rgba(0,0,0,.075);-webkit-transition:border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;-o-transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s}
+  	
+  	.mytextbox:focus{border-color:#66afe9;outline:0;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6)}
+  	  	    
+	.mytextbox2
+  	{ width:80%;font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; padding-top:10px; padding-bottom: 10px; padding-left:15px; padding-right:15px;line-height:1.42857143;color:#8D8C8A;background-image:none;border:2px solid #C2BFBA;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);box-shadow:inset 0 1px 1px rgba(0,0,0,.075);-webkit-transition:border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;-o-transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s}
+  	
+  	.mytextbox2:focus{border-color:#8D8C8A;outline:0;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6)}
+  	  	    
+        
+	.mybutton2 {font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;-moz-border-radius:4px; -webkit-border-radius:4px;-khtml-border-radius:4px; 
+            	border-radius:4px; padding-top:2px; padding-bottom: 2px; padding-left:10px; padding-right:10px; background-color: #FC4A1A; cursor: pointer; color: #FFFFFF;}
+	.mybutton2:hover {background-color:White; color: #FC4A1A;box-shadow: 0 5px 15px rgba(145, 92, 182, .4);}	
+	
+	.wrap {
+		position:relative;
+		margin:0 auto;
+               /*replace 900px with your width*/
+		width:100%;
+	}
+	
+	.lockimage
+	{
+		background-position:100% 100%;
+		background-repeat:no-repeat ;
+	}
+	
+	@media Print
+	{
+		.DontPrint
+		{
+			display:none;
+		}
+	}
+	
+	
+	.DivMove33 
+	{
+	width:32%;
+	float:left;
+	}
+	
+	.DivMove45 
+	{
+	width:45%;
+	float:left;
+	}
+	
+	.DivMove50
+	{
+	width:49%;
+	float:left;
+	}
+	
+	.DivMove60
+	{
+	width:59%;
+	float:left;
+	}
+	.DivMove40
+	{
+	width:39%;
+	float:left;
+	}
+				
+	@media only screen and (max-width: 650px){
+		#logo {background: url('nav-icon.png') center center no-repeat;}
+		}
+	
+	.TitleHeada
+	{
+		 margin-left:70px;
+		 font-size:28pt;
+		 height:70px;	
+	}
+
+	/* If in mobile screen with maximum width 479px. The iPhone screen resolution is 320x480 px (except iPhone4, 640x960) */    
+	@media only screen and (max-width: 800px){
+		.BlockMove { width: 100%; clear:both}
+		.TitleHeada{ margin-left:10px;font-size:14pt; height:40px;}
+		.A4 { width:90%}
+		.showBoard{ width:600px}
+	}
+	
+	.curve4
+	{
+		-moz-border-radius: 4px; 
+            	-webkit-border-radius: 4px;
+            	-khtml-border-radius: 4px; 
+            	border-radius: 4px;
+	}
+	
+	.curve9
+	{
+		-moz-border-radius: 9px; 
+            	-webkit-border-radius: 9px;
+            	-khtml-border-radius: 9px; 
+            	border-radius: 9px;
+	}
+	
+	.grad {
+		  background: -webkit-linear-gradient(left top, #99CCFF , white); /* For Safari 5.1 to 6.0 */
+		  background: -o-linear-gradient(bottom right, #99CCFF, white); /* For Opera 11.1 to 12.0 */
+		  background: -moz-linear-gradient(bottom right, #99CCFF, white); /* For Firefox 3.6 to 15 */
+		  background: linear-gradient(to bottom right, #99CCFF , white); /* Standard syntax */
+	}
+	
+	.form-controlx 
+{
+   padding-top:100px; padding-bottom:100px; padding-left:100px; padding-right:100px;
+  display: block;
+  width: 100%;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+.form-controlx:focus {
+  border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
+          box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
+}
+	
+	.landingText{ border-style:none ; width:450px; color:Gray; height:70px; padding-left:20px; padding-right:20px;font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:16pt}
+	.landingButton{ cursor:pointer; border-style:none; width:150px; color:White; background-color: #FC4A1A; height:72px; text-align:center ;font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:16pt}
+	.logolarge{ visibility:visible}
+	.logosmall{ visibility:hidden}
+	.logolargen{ visibility:visible}
+	.logosmalln{ visibility:hidden}
+	.Libre{font-family: 'Libre Baskerville', serif;}
+    .Roboto{font-family: 'Roboto', sans-serif;}
+    .Raleway{font-family: 'Raleway', sans-serif;}
+    .caption1{ font-size:60pt;}
+	.caption2{ font-size:20pt;}
+	.caption3{ font-size:15pt;}
+	.captionTextBox{ font-size:11pt;}
+	.caption1B{ font-size:40pt;}
+	.caption4s{ font-size:12pt;}
+	.heroshotm{background: url('images/lpgplant2.png') center center no-repeat}
+	.mybutton {padding-top:20px; padding-bottom:20px; padding-left: 40px; padding-right: 40px; cursor: pointer; transition: all 0.2s ease-in-out;}
+	.mybutton:hover {box-shadow: 0 5px 15px rgba(145, 92, 182, .4);}	
+	.color1{ color:White; background-color:#669934; transition: all 0.2s ease-in-out;}
+	.color1:hover { color:#669934; background-color:White}
+	.color2{ color:White; background-color:#FF6600; transition: all 0.2s ease-in-out;}
+	.color2:hover { color:#FF6600; background-color:White}
+	.bodytextcontainer{ width: 950px}
+	.captionsmall{font-size:10pt;}
+	.storywidth{ width:400px}
+	.underlinn{ width:150px; padding-top:5px;}
+	.gridicon{ color:#3C8DBC}
+	.gridicon: hover{ color:#ECF0F5}
+	@media only screen and (max-width: 1300px){
+		.caption2{ font-size:20pt}
+		.mybutton {padding-top:10px; padding-bottom:10px; padding-left: 15px; padding-right: 15px; }
+		.heroshotm{background: url('images/lpgplant3.png') center center no-repeat}
+	}
+	
+	@media only screen and (max-width: 1000px){
+		.caption1{ font-size:50pt}
+		.caption2{ font-size:15pt}
+		.caption3{ font-size:13pt}
+		.caption4{ font-size:12pt}
+		.heroshotm{background: url('images/lpgplant3.png') center center no-repeat}
+		.bodytextcontainer{ width:90%}
+		.mybutton {padding-top:10px; padding-bottom:10px; padding-left: 20px; padding-right: 20px; }
+		.logolargen{ visibility:hidden; width:1px; height:1px}
+		.logosmalln{ visibility:visible}
+		.storywidth{ width:300px}
+	}
+	
+	
+	@media only screen and (max-width: 700px){
+		.landingText{ width:300px; height:40px; font-size:12pt}
+		.landingButton{ width:100px; height:42px; font-size:12pt}
+	    .logolarge{ visibility:hidden; width:1px; height:1px}
+		.logosmall{ visibility:visible}
+		.heroshotm{background: url('images/lpgplant4.png') center center no-repeat}
+		.caption4B{ font-size:12pt;}
+		.caption4s{ font-size:10pt;}
+		.mytextbox2{ padding-top:5px; padding-bottom:5px; padding-left:8px; padding-right:8px}
+		.mybutton {padding-top:10px; padding-bottom:10px; padding-left: 20px; padding-right: 20px; }
+		.caption2{ font-size:14pt}
+		.captionsmall{ font-size:7pt}
+		.storywidth{ width:200px}
+		.showBoard{ width:450px}
+		.captionTextBox{ font-size:9pt;}
+	}
+	
+	@media only screen and (max-width: 500px)
+	{
+		.landingText{ width:200px; height:30px; font-size:10pt}
+		.landingButton{ width:80px; height:32px; font-size:10pt}
+		.Div25response { width: 100%; clear:both}
+		.caption1{ font-size:40pt}
+		.caption2{ font-size:12pt}
+		.caption1B{ font-size:30pt}
+		.caption3{ font-size:10pt}
+		.showBoard{ width:350px}
+		.underlinn{ width:50px;}
+		
+	}
+	
+	@media only screen and (max-width: 400px)
+	{
+		
+		.caption2{ font-size:10pt}
+		.caption3{ font-size:8pt}
+		.DivMove33 { width: 100%; clear:both}
+		.heroshotm{ width:0px; visibility:hidden }
+		.mybutton {padding-top:5px; padding-bottom:5px; padding-left: 10px; padding-right: 10px; }
+		.DivMove45 { width: 100%; clear:both}
+		.DivMove50 { width: 100%; clear:both}
+		.DivMove60 {width: 100%; clear:both}
+	    .DivMove40{width: 100%; clear:both}
+		.mytextbox2{ width:150px}
+		.caption4B{ font-size:10pt;}
+		.caption4s{ font-size:9pt;}
+		.VerticalSpace100{height:10px}
+		.caption1B{ font-size:15pt}
+		.showBoard{ width:95%}
+	    .captionTextBox{ font-size:8pt;}
+	}
+	
+	@media only screen and (max-width: 360px)
+	{
+		.showcase{ width:90%}
+		.landingText{ width:60%; height:30px; font-size:8pt}
+		.landingButton{ width:20%; height:32px; font-size:8pt}
+		.caption1{ font-size:20pt}
+		
+	}
+	
+	@media only screen and (max-width: 240px)
+	{
+		.showcase{ width:90%}
+		.mytextbox2{ width:50%}
+	}
+	.shadow
+	{
+		box-shadow: 3px 3px 5px #888888
+	}
+	
+	@media only screen and (max-width: 1000px){
+		.responsiveimagex{ width: 100%;}
+	}
+	
+	.passport
+	{
+	 width:70px;
+	}
+	
+	@media only screen and (max-width: 400px){
+		.increasetd{ height:70px;}
+		.passport{width:50px;}
+		}
